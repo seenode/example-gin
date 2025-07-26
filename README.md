@@ -3,7 +3,7 @@
 This is a minimal and production-ready Gin application configured for deployment on [Seenode](https://seenode.com).
 
 ### Deploy in Minutes
-Check out our [Gin deployment guide](https://seenode.com/docs/services/web-services/framework-guides/go/gin/) for more details.
+Check out our [Gin deployment guide](https://seenode.com/docs/frameworks/go/gin/) for more details.
 
 ## How to Deploy on Seenode
 
